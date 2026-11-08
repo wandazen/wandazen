@@ -1,6 +1,6 @@
 ## Hello Guys! I'm Wanda 👋
 
-![Sungjinwo](img/ANIME.gif)
+<img src="img/ANIME.gif" alt="Sungjinwo" width="100%">
 
 <!--
 **wandazen/wandazen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
